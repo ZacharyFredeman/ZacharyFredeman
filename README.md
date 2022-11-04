@@ -25,7 +25,7 @@ Projects Ive Worked On:
       Link to play: https://e-potapova.itch.io/little-trouble
       
     ET: 
-      A recreate with a twist of the original E.T. game made for the atari for Marist Game Jam 2021. Given 48 hours to develop a complete game with the theme of the Game Jam being "A Classic Reimagined". The team of 6 I worked in decide to reimagine the classic E.T for the atari which was almost brought down the game industry. For our idea we decide it was time for E.T to fight back against the goverment. The game starts with you playing the original E.T for the atari, but this time you arent collecting parts of a phone. After collecting 3 parts to create a shotgun the game turns into a 2d shooter, where you must escape from the goverment.
+      A recreate with a twist of the original E.T. game made for the atari for Marist Game Jam 2021. Given 48 hours to develop a complete game with the theme of the  Game Jam being "A Classic Reimagined". The team of 6 I worked in decide to reimagine the classic E.T for the atari which was almost brought down the game industry. For our idea we decide it was time for E.T to fight back against the goverment. The game starts with you playing the original E.T for the atari, but this time you arent collecting parts of a phone. After collecting 3 parts to create a shotgun the game turns into a 2d shooter, where you must escape from the goverment.
       This was the first game jam I ever worked on. I was in charge of creating the player script for the 2d shooter. The game jam acted as a great learning experience, and I learned many key aspects og game development.
     Link to project: https://github.com/crav12345/PhoenixFoundationFall2021
     
